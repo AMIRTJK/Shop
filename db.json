@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 13 Pro - Transparent LKR 499",
+      "image": "/image_1.svg"
+    },
+    {
+      "id": "2",
+      "title": "Samsung S23+ - Transparent LKR 799",
+      "image": "/image_2.svg"
+    },
+    {
+      "id": "3",
+      "title": "iPhone 14 - Transparent with magsafe LKR 799",
+      "image": "/image_3.svg"
+    },
+    {
+      "id": "4",
+      "title": "Pixel 7 Pro - Transparent Wireless LKR 599",
+      "image": "/image_4.svg"
+    },
+    {
+      "id": "5",
+      "title": "Pixel 6 a - Matte Black LKR 499",
+      "image": "/image_5.svg"
+    },
+    {
+      "id": "6",
+      "title": "Pixel 6a LKR 399",
+      "image": "/image_6.svg"
+    },
+    {
+      "id": "7",
+      "title": "iPhone 14 - Transparent with magsafe LKR 799",
+      "image": "/image_7.svg"
+    },
+    {
+      "id": "8",
+      "title": "Pixel 7 Pro - Transparent Wireless LKR 599",
+      "image": "/image_14.svg"
+    },
+    {
+      "id": "9",
+      "title": "iPhone 13 Pro - Transparent LKR 499",
+      "image": "/image_8.svg"
+    },
+    {
+      "id": "10",
+      "title": "Samsung S23+ - Transparent LKR 799",
+      "image": "/image_9.svg"
+    },
+    {
+      "id": "11",
+      "title": "Pixel 6a - Transparent LKR 599",
+      "image": "/image_10.svg"
+    },
+    {
+      "id": "12",
+      "title": "Pixel 7 Pro - Transparent Wireless LKR 599",
+      "image": "/image_11.svg"
+    },
+    {
+      "id": "13",
+      "title": "iPhone 13 Pro - Transparent LKR 499",
+      "image": "/image_12.svg"
+    },
+    {
+      "id": "14",
+      "title": "Samsung S23+ - Transparent LKR 799",
+      "image": "/image_13.svg"
+    },
+    {
+      "id": "15",
+      "title": "iPhone 14 - Transparent with magsafe LKR 799",
+      "image": "/image_14.svg"
+    },
+    {
+      "id": "16",
+      "title": "Pixel 7 Pro - Transparent Wireless LKR 599",
+      "image": "/image_12.svg"
+    }
+  ]
+}
